@@ -1,0 +1,61 @@
+ body{
+	  	font-family: Arial;
+	  }
+		.header{
+			height: 70px;
+			padding-top: 30px;
+		}
+		.banner{
+			height: 500px;
+			background-image: url(banner.png);
+			background-size: 100% 100%;
+			padding-top: 200px;
+		}
+		.content{
+			height: 400px;
+		}
+		.flex{
+			display: flex;
+		}
+		.parent{
+			width: 1200px;
+			height: 400px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		.info{
+			height: 400px;
+			width: 300px;
+			margin-left: 10px;
+			text-align: center;
+		}
+		a{
+			color: cyan;
+			text-decoration: none;
+			font-size: 20px;
+			margin-left: 50px;
+			margin-top: 10px;
+		}
+		.logo_block{
+			margin-left: 200px;
+		}
+		.links{
+			margin-left: 400px;
+
+		}
+		h1{
+			text-align: center;;
+			color: white;
+			font-size: 60px;
+		}
+		button{
+			background-color: cyan;
+			border:none;
+			border-radius: 5px;
+			padding-top: 10px;
+			padding-right: 15px;
+			padding-left: 15px;
+			padding-bottom: 10px;
+			color: white;
+
+		}
